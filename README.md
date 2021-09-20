@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there people of the internet! 👋 💻
 
-<!--
-**budnye/budnye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+## Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work as fullstack developer focusing on mobile development. My favorite technology is React Native but I've experience in many other techs.
+
+#
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=budnye&show_icons=true&theme=dark)
+
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=budnye&show_icons=true&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -6,6 +6,14 @@ I work as fullstack developer focusing on mobile development. My favorite techno
 
 #
 
+## What I'm working on?
+
+[React Native app ](https://github.com/budnye/meuescambo/tree/develop) meuEscambo for college final project.
+
+[Nestjs, Graphql, typeorm and Postgres server](https://github.com/budnye/meuescambo-server) for meuEscambo app.
+
+#
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=budnye&show_icons=true&theme=dark)
 
 #
